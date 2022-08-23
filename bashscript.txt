@@ -1,0 +1,6 @@
+# Bash Script
+
+I'm learning bash script, it's something really important for new coders and it's absolutely necessary if I ever wanna become a good coder.
+the linux command line is an essential tool for a developer and it makes things really faster than the usual vscode, edit documents and the yada-yada-yada. I'm right now using **vim ** to edit this file, so I'm testing the lcl.
+
+    #linuxcommandline #vim #coder #bashscript#linuxcommandline #vim #coder  
