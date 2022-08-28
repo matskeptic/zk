@@ -70,5 +70,6 @@ When it comes to ownership, there's three types of user:
 * **apt upgrade** updates packages to the latest version
 * **sudo** it's superuser, do it as a root
 * **man** to check all availables manuals
+* **sudo apt search** to browse through packages available to install
 
 
