@@ -9,3 +9,4 @@ on from here:
 2. Try to ssh ubuntu into ubuntu( I successfuly got access when i type the user@177.777.77)
 3. ssh windows terminal from ubuntu ?
 
+      #saga #ssh #ubuntu #virtualbox
