@@ -22,7 +22,7 @@ linux is an operating system created by Linus Torvalds in 1991. It's based on mi
 
 ## what's the unix file system
 
-I'll grab a definition from the web : The seven standard Unix file types are regular, directory, symbolic link, FIFO special, block special, character special, and socket as defined by POSIX.
+multi-level directory tree in a hierarchical way of saying.
 
 
 
