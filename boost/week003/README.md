@@ -19,6 +19,7 @@ NAT stands for Network Address Translation and  is a process that enables one, u
 * 'whoami' print effective user id
 * 'users' display the logged in users
 * 'last' display last logged in users
-* 'exit' logs out the user
+* 'exit' logs out, exit programs and exit shell
+* '| less' to scroll down screen when using apt search
 
 
