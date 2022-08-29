@@ -20,6 +20,8 @@ NAT stands for Network Address Translation and  is a process that enables one, u
 * 'users' display the logged in users
 * 'last' display last logged in users
 * 'exit' logs out, exit programs and exit shell
-* '| less' to scroll down screen when using apt search
+* '| less' | 'more'| to scroll output in terminal
+* '<ctrl> -c' will exit anything
+  
 
 
