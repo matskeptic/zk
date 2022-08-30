@@ -8,6 +8,10 @@ We can use the secure shell so we can have a remote machine in Windows or Mac.
 
 NAT stands for Network Address Translation and  is a process that enables one, unique IP address to represent an entire group of computers. With bridged networking, the virtual network adapter in the virtual machine connects to a physical network adapter in the host system.
 
+## JSON
+
+
+
 ## commands
 
 * 'ip a' display all the ip addresses
